@@ -1,3 +1,30 @@
-# arafatlam
-that's my first one
-you can visit 
+
+<html><head> </head><body><marquee><b> It's just a demo </b><br></marquee>
+<br><br>
+<center><b>So let's Start</b></center><br>
+<br><br>
+
+Hellow sir and everyone i'm <b>Arafat Hossain Lam <br>SCIENCE-5,ROLL:1275061</b>
+<br></br>
+<img src="C:\Users\PC\Pictures\WhatsApp Image 2025-11-13 at 19.41.47_46271293.jpg" alt="C:\Users\PC\Pictures\WhatsApp Image 2025-11-13 at 19.41.47_46271293.jpg"><br>
+<br></br>
+<b>About Me
+</b><br>
+<br><br>
+I'd describe my self as a quite,<b>introverted</b> person who sometimes struggles to express thoughts clearly.<br>
+But despite that i'm someone who learns with passion and creates with heart.<br>
+And you know guys? Becoming a proffessional <b>web developer</b> is a very big dream of mine.<br>
+<br><br>
+So, i know that many of you don't know about my <b>FACEBOOK ACCOUNT</b>.<br>
+<br><br>
+HERE IS MY ID LINK : https://www.facebook.com/share/1DUYpqv6xa/ <a href="https://www.facebook.com/share/1DUYpqv6xa/" target="_blank">
+Click Here to Visit</a><br>
+ID NAME: <b>Arafat Hosain Lam</b>
+
+<br><br>
+<b>What's App NO : <b>01304754644</b><br>
+ <center><b>THANK YOU</b></center>
+<b>By ARAFAT</b>
+
+
+</b></body></html>
